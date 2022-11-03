@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 5-variable_load.py
 # Githinji Githogora
